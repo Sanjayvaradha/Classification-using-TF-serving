@@ -4,7 +4,8 @@
 
 In main.py script contains the FAST_API application
 
-Run the main.py to deploy the trained model in local host
+Run the main.py to deploy the trained model in local host.
+
 Click the local host link, if details not found page appears, then do the following,
 
 In URL, add /docs after 8000, the FAST-API application will open.
